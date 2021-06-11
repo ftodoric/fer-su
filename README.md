@@ -17,7 +17,11 @@ Running with a python script:
 ```
 py -m notebook
 ```
-or with the jupyter command (must add the path to the python module `jupyter.exe` to the enviroment variable _path_):
+Running with jupyter command (must add the path of the python module `jupyter.exe` to the enviroment variable _path_):
 ```
 jupyter notebook
+```
+or
+```
+jupyter-notebook
 ```
