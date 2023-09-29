@@ -1,6 +1,6 @@
 # Machine Learning Course | FER
 
-Laboratory assignments of this course are solved using [Jupyter Notebook](https://jupyter.org/) interactive enviroment.
+For this course, [Jupyter Notebook](https://jupyter.org/) interactive environment is used.
 
 ### Requirements
 Python libraries:
@@ -10,16 +10,18 @@ Python libraries:
 - [scikit-learn](https://scikit-learn.org/stable/)
 - [IPython](https://ipython.org/)
 
-Install using pip.
+Install using `pip install`.
 
-### Running a notebook
-Running with a python script:
+### Running notebooks
+
+1. Run with a Python script:
 ```
 py -m notebook
 ```
-Running with jupyter command (must add the path of the python module `jupyter.exe` to the enviroment variable _path_):
+
+2. Run with Jupyter command (must add the python module `jupyter.exe` to the environment variable _path_):
 ```
-jupyter notebook
+Jupyter notebook
 ```
 or
 ```
